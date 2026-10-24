@@ -6,3 +6,5 @@ The application is based on the application from the getting started tutorial at
 This is github file in docker
 
 test
+
+docker file is main github file
